@@ -1,0 +1,1 @@
+# FT_SICT_SAMSUNG

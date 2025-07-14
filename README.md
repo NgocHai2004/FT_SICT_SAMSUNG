@@ -9,7 +9,8 @@ Phân chia công việc
 
 Quá trình cụ thể đầu vào và ra của dự án
 
-<img width="806" height="553" alt="image" src="https://github.com/user-attachments/assets/8e1a2065-018a-444c-8732-1979b8310290" />
+<img width="475" height="688" alt="image" src="https://github.com/user-attachments/assets/3724c5d1-5563-43ef-947f-d94b3075d5c2" />
+
 
 
 
